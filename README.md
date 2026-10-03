@@ -12,7 +12,7 @@ I am an undergraduate Data Science student at the University of Engineering and 
 
 ## Featured Projects
 ### Nutritional Value Based Diet Analyzer
-A comprehensive web application designed to analyze user nutritional intake, featuring structured project proposals, UI mockups, and presentation manuals.
+A comprehensive web application designed to analyze user nutritional intake, featuring structured project proposals, and presentation manuals.
 
 ### Construction Management System
 An in-house enterprise system architecture designed to streamline contruction projects,finance handlig, employee records etc
